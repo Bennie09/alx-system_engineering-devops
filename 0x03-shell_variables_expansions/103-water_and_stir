@@ -1,0 +1,2 @@
+#!/bin/bash
+water_value=$WATER stir_value=$STIR result=$((water_value + stir_value)) export BESTCHOL=$result
